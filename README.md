@@ -14,10 +14,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Visit%20Streak-40-orange?style=for-the-badge&logo=firefox">
+      <img src="https://img.shields.io/badge/Daily%20Coding%20Streak-40-orange?style=for-the-badge&logo=firefox">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Completed-291-brightgreen?style=for-the-badge&logo=progress">
+      <img src="https://img.shields.io/badge/Completed-428-brightgreen?style=for-the-badge&logo=progress">
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Learning-1-blue?style=for-the-badge&logo=hourglass">
