@@ -33,8 +33,9 @@
 
 | **Skill**            | **Progress**  |
 |----------------------|---------------|
-| Frontend             | 115 / 115 🔄  |
 | Full Stack           | 37 / 37 🔄    |
+| Frontend             | 115 / 115 🔄  |
+| Backend              | 137 / 137🔄   |
 | QA                   | 139 / 139 🔄  |
 | Machine Learning     | In Progress   |
 
@@ -57,11 +58,11 @@
 
 ---
 
-<h2 align="center">📈 Statistics</h2>
+<!--<h2 align="center">📈 Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rithsen&show_icons=true&theme=radical">
-</p>
+</p>--->
 
 ---
 
