@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | QA Specialist | Data Analyst | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  Progress at <a href="https://roadmap.sh" target="_blank">roadmap.sh</a>
+  Progress at <a href="https://roadmap.sh." target="_blank">roadmap.sh</a>
 </p>
 
 ---
