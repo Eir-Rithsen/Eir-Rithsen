@@ -81,9 +81,5 @@
   </a>
 </p>
 ```
-<!--
-### Instructions:
-1. Replace `your-profile`, `youremail@example.com`, and `yourusername` with your actual LinkedIn, email, and GitHub profile details.
-2. Save the content as `README.md` in your GitHub repository to use it as your profile README.
 
 
