@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center">🚀 Progress Overview</h2>
-[![roadmap.sh](https://roadmap.sh/card/tall/67405c4b5434bf319a333a15?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/67405c4b5434bf319a333a15?variant=dark)](https://roadmap.sh)]
 <table align="center">
   <tr>
     <td align="center">
