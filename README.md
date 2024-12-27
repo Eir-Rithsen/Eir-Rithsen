@@ -61,7 +61,7 @@
 <!--<h2 align="center">📈 Statistics</h2>
 <p></p>
 <p></p>
-----
+--
 -
 
 ----
