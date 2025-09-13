@@ -7,6 +7,9 @@
   Progress at <a href="https://roadmap.sh." target="_blank">roadmap.sh</a>
 </p>
 
+<p align="center">
+  QA Portfolio at <a href="https://eir-rithsen.github.io/Qa-Portfolio/" target="_blank">QA Tester</a>
+</p>
 ---
 
 <h2 align="center">🚀 Progress Overview</h2>
